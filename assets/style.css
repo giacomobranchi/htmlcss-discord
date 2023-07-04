@@ -252,7 +252,22 @@ section {
     text-align: center;
 }
 
-#img_4 {
+.img_4 {
     margin: 0 auto;
     display: block;
+}
+
+h3 {
+    text-align: center;
+}
+
+.btn_3 {
+    background-color: #8ea1e1;
+    padding: 0.5rem 0.3rem;
+    border-radius: 1rem;
+    color: white;
+    font-size: 12px;
+    display: block;
+    margin: 1rem auto;
+    width: fit-content;
 }
