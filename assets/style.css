@@ -13,6 +13,10 @@ h1 {
     font-size: 48px;
 }
 
+footer {
+    background-color: #23272a;
+}
+
 .section_title {
     font-size: 3rem;
 }
@@ -143,6 +147,14 @@ section {
     align-items: center;
 }
 
+.row_3 {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start;
+    color: #fff;
+}
+
 .debug .row {
     background-color: lightsalmon;
     height: 27rem;
@@ -186,6 +198,7 @@ section {
 
 .col_3 {
     width: 30%;
+    color: white;
 }
 
 .debug .col_3 {
@@ -270,4 +283,18 @@ h3 {
     display: block;
     margin: 1rem auto;
     width: fit-content;
+}
+
+.foot_title {
+    color: #7289da;
+    text-align: left;
+    margin: 1rem 0;
+}
+
+ul {
+    list-style: none;
+}
+
+li:first-child {
+    color: #7289da;
 }
