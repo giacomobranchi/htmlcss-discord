@@ -126,8 +126,9 @@ section {
     padding-bottom: 4rem;
 }
 
-/* .bg_2 {
-} */
+.dark {
+    background-color: #f6f6f6;
+}
 
 .debug .bg_2 {
     border: 1px solid black;
@@ -235,4 +236,23 @@ section {
     border: 1px solid black;
     background-color: lightgreen;
     height: 40rem;
+}
+
+.wave_1 {
+    color: #f6f6f6;
+    margin-bottom: -1rem;
+}
+
+.wave_2 {
+    color: white;
+    margin-bottom: -80px;
+}
+
+.txt_c {
+    text-align: center;
+}
+
+#img_4 {
+    margin: 0 auto;
+    display: block;
 }
